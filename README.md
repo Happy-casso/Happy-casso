@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Happiness Simao
 
-💻👩‍🎓 I'm a Computer Sciencee student 
+💻👩‍🎓 I'm a Final year Computer Sciencee student 
 💻 Very passionate about Web Development
 😌 Currently learning Java, PHP, CSS and HTML 
 📍 in South Africa
@@ -11,6 +11,7 @@
 -CSS
 -PHP (beginner)
 -JavaScript(beginner)
+Python(beginner)
 
 ## Projects
 -developing a website for Hair Appointment(Still a login page)
